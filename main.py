@@ -1,4 +1,3 @@
-# classes : board game player
 import random
 
 import advance_tic_tac_toe
